@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aneeba-Arshad
-- 👀 I’m interested in forntend developing
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning frontend developing
 - 💞️ I’m looking to collaborate on javascript
 - 📫 can contact me at instagram
 - 😄 Pronouns: aniba
